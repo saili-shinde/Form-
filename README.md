@@ -1,16 +1,16 @@
 # Form-
 
-**style.css**
-
+##style.css
+`
 input{
     background-color:lightblue
 }
 form{
     background-color:lightgreen
 }
-
-form.html
-
+`
+##form.html
+`
 <!-- saved from url=(0031)file:///D:/SAILI/html/form.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <link rel="stylesheet" href="./form_files/style.css">
@@ -57,6 +57,6 @@ Sugetions:
 <input type="reset" name="reset" value:"reset"="" style="background-color:green"><br><br>
     
 </form></body></html>
-
-output image
+`
+##output image
 [forms image](https://user-images.githubusercontent.com/111215095/184526209-e79d7894-51d2-4518-bbc3-4262eb7c98d2.jpg)
