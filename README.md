@@ -2,8 +2,8 @@
 
 ## style.css
 
-`
-input{
+
+`input{
     background-color:lightblue
 }
 form{
@@ -59,8 +59,7 @@ Sugetions:
     
 <input type="reset" name="reset" value:"reset"="" style="background-color:green"><br><br>
     
-</form></body></html>
-`
+</form></body></html>`
 
 ## output image
 ![forms image](https://user-images.githubusercontent.com/111215095/184526209-e79d7894-51d2-4518-bbc3-4262eb7c98d2.jpg)
