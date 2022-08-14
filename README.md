@@ -21,6 +21,7 @@ form.html
 <title>FORM</title></head>
 
 <body><form>
+
 first name: <input type="name" name="firstname" id="firstname"><br><br>
 middle name: <input type="name" name="middlename" id="middlename"><br><br>
 last name: <input type="name" name="lastname" id="lastname"><br><br>
