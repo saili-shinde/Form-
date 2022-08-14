@@ -13,9 +13,8 @@ form{
 
 ## form.html
 
-`
 <!-- saved from url=(0031)file:///D:/SAILI/html/form.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+`<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <link rel="stylesheet" href="./form_files/style.css">
 <style>
 
