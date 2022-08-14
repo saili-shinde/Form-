@@ -2,6 +2,13 @@
 
 style.css
 
+input{
+    background-color:lightblue
+}
+form{
+    background-color:lightgreen
+}
+
 form.html
 
 <!-- saved from url=(0031)file:///D:/SAILI/html/form.html -->
