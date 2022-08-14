@@ -23,21 +23,34 @@ form.html
 <body><form>
 
 
-first name: <input type="name" name="firstname" id="firstname"><br><br>
-middle name: <input type="name" name="middlename" id="middlename"><br><br>
-last name: <input type="name" name="lastname" id="lastname"><br><br>
-Email: <input type="gmail" name="email" id="email"><br><br>
-phone no. : <input type="tel" name="mobileno" id="mobileno"><br><br>
-Date Of Birth: <input type="date" name="date" id="date"><br><br>
-Upload Your Resume: <input type="file" name="photo" id="photo"><br><br>
-Upload Your Photo: <input type="file" name="photo" id="photo"><br><br>
-GENDER :<br><br>
-female: <input type="radio" name="female" id="female"><br><br>
-male: <input type="radio" name="male" id="male"><br><br>
-trans: <input type="radio" name="tans" id="trans"><br><br>
-Password: <input type="password" name="password" id="password"><br><br>
+first name: 
+    <input type="name" name="firstname" id="firstname"><br><br>
+middle name: 
+    <input type="name" name="middlename" id="middlename"><br><br>
+last name: 
+    <input type="name" name="lastname" id="lastname"><br><br>
+Email: 
+    <input type="gmail" name="email" id="email"><br><br>
+phone no. : 
+    <input type="tel" name="mobileno" id="mobileno"><br><br>
+Date Of Birth: 
+    <input type="date" name="date" id="date"><br><br>
+Upload Your Resume: 
+    <input type="file" name="photo" id="photo"><br><br>
+Upload Your Photo: 
+    <input type="file" name="photo" id="photo"><br><br>
+Gender:
+    <br><br>
+female: 
+    <input type="radio" name="female" id="female"><br><br>
+male: 
+    <input type="radio" name="male" id="male"><br><br>
+trans: 
+    <input type="radio" name="tans" id="trans"><br><br>
+Password: 
+    <input type="password" name="password" id="password"><br><br>
 Sugetions:
-<textarea name="suggetions" style="background-color:lightblue"></textarea><br><br>
+    <textarea name="suggetions" style="background-color:lightblue"></textarea><br><br>
     
 <input type="submit" name="submit" value:"submit"="" style="background-color:green"><br><br>
     
