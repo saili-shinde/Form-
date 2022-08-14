@@ -1,6 +1,6 @@
 # Form-
 
-##style.css
+## style.css
 
 `
 input{
@@ -11,7 +11,7 @@ form{
 }
 `
 
-##form.html
+## form.html
 
 `
 <!-- saved from url=(0031)file:///D:/SAILI/html/form.html -->
@@ -62,5 +62,5 @@ Sugetions:
 </form></body></html>
 `
 
-##output image
+## output image
 ![forms image](https://user-images.githubusercontent.com/111215095/184526209-e79d7894-51d2-4518-bbc3-4262eb7c98d2.jpg)
