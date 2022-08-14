@@ -21,7 +21,7 @@ form.html
 <title>FORM</title></head>
 
 <body><form>
-first name: <input type="name" name="firstname" id="firstname"><textarea name="suggetions" style="background-color:lightblue"></textarea><br><br>
+first name: <input type="name" name="firstname" id="firstname"><br><br>
 middle name: <input type="name" name="middlename" id="middlename"><br><br>
 last name: <input type="name" name="lastname" id="lastname"><br><br>
 Email: <input type="gmail" name="email" id="email"><br><br>
