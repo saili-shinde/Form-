@@ -36,10 +36,13 @@ female: <input type="radio" name="female" id="female"><br><br>
 male: <input type="radio" name="male" id="male"><br><br>
 trans: <input type="radio" name="tans" id="trans"><br><br>
 Password: <input type="password" name="password" id="password"><br><br>
-SUGETIONS:
+Sugetions:
 <textarea name="suggetions" style="background-color:lightblue"></textarea><br><br>
+    
 <input type="submit" name="submit" value:"submit"="" style="background-color:green"><br><br>
+    
 <input type="reset" name="reset" value:"reset"="" style="background-color:green"><br><br>
+    
 </form></body></html>
 
 output image
